@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EcommerceProdutos/1.0.0": {
+        "runtime": {
+          "EcommerceProdutos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcommerceProdutos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

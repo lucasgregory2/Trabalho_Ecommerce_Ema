@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\obj\Debug\net8.0\Trbalho_Emanuel_Ecomerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\obj\Debug\net8.0\Trbalho_Emanuel_Ecomerce.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\obj\Debug\net8.0\Trbalho_Emanuel_Ecomerce.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\obj\Debug\net8.0\Trbalho_Emanuel_Ecomerce.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\bin\Debug\net8.0\Trbalho_Emanuel_Ecomerce.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\bin\Debug\net8.0\Trbalho_Emanuel_Ecomerce.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\bin\Debug\net8.0\Trbalho_Emanuel_Ecomerce.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\bin\Debug\net8.0\Trbalho_Emanuel_Ecomerce.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\bin\Debug\net8.0\Trbalho_Emanuel_Ecomerce.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\obj\Debug\net8.0\Trbalho_Emanuel_Ecomerce.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\obj\Debug\net8.0\refint\Trbalho_Emanuel_Ecomerce.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\obj\Debug\net8.0\Trbalho_Emanuel_Ecomerce.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\obj\Debug\net8.0\Trbalho_Emanuel_Ecomerce.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\Trbalho_Emanuel_Ecomerce\obj\Debug\net8.0\ref\Trbalho_Emanuel_Ecomerce.dll

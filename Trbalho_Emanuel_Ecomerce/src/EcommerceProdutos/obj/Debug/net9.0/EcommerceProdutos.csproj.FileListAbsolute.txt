@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\bin\Debug\net9.0\EcommerceProdutos.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\bin\Debug\net9.0\EcommerceProdutos.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\bin\Debug\net9.0\EcommerceProdutos.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\bin\Debug\net9.0\EcommerceProdutos.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\bin\Debug\net9.0\EcommerceProdutos.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\obj\Debug\net9.0\EcommerceProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\obj\Debug\net9.0\EcommerceProdutos.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\obj\Debug\net9.0\EcommerceProdutos.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\obj\Debug\net9.0\EcommerceProdutos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\obj\Debug\net9.0\EcommerceProdutos.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\obj\Debug\net9.0\refint\EcommerceProdutos.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\obj\Debug\net9.0\EcommerceProdutos.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\obj\Debug\net9.0\EcommerceProdutos.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Aprendendo_C#\Trbalho_Emanuel_Ecomerce\src\EcommerceProdutos\obj\Debug\net9.0\ref\EcommerceProdutos.dll
